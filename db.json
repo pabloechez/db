@@ -9,6 +9,9 @@
     { "id": 7, "title": "Mysql", "img": "mysql.jpg" }
   ],
   "jobs": [
-    { "id": 1, "title": "Nombre", "text": "lorem ipsum", "img":"img.jpg" }
+    { "id": 1, "title": "Nombre trabajo", "text": "hosfluorescently provide access to just in time technology before clicks-and-mortar mindshare. Synergistically scale multimedia based systems without fully tested growth strategies. Holisticly cultivate leveraged methodologies without fully tested experiences. Globally transition customized functionalities vis-a-vis cost effective resources.", "img":"bg2.jpg" },
+    { "id": 2, "title": "Nombre trabajo", "text": "hosfluorescently provide access to just in time technology before clicks-and-mortar mindshare. Synergistically scale multimedia based systems without fully tested growth strategies. Holisticly cultivate leveraged methodologies without fully tested experiences. Globally transition customized functionalities vis-a-vis cost effective resources.", "img":"bg2.jpg" },
+    { "id": 3, "title": "Nombre trabajo", "text": "hosfluorescently provide access to just in time technology before clicks-and-mortar mindshare. Synergistically scale multimedia based systems without fully tested growth strategies. Holisticly cultivate leveraged methodologies without fully tested experiences. Globally transition customized functionalities vis-a-vis cost effective resources.", "img":"bg2.jpg" },
+    { "id": 4, "title": "Nombre trabajo", "text": "hosfluorescently provide access to just in time technology before clicks-and-mortar mindshare. Synergistically scale multimedia based systems without fully tested growth strategies. Holisticly cultivate leveraged methodologies without fully tested experiences. Globally transition customized functionalities vis-a-vis cost effective resources.", "img":"bg2.jpg" }
   ]
 }
