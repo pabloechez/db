@@ -10,7 +10,7 @@ Json placeholder from: https://jsonplaceholder.typicode.com/
 https://my-json-server.typicode.com/
 
 * **Use:**
-https://my-json-server.typicode.com/<your-username>/<your-repo>
+https://my-json-server.typicode.com/your-username/your-repo
 
 * **Example:**
 https://my-json-server.typicode.com/pabloechez/db/skills
